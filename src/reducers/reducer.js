@@ -5,22 +5,22 @@ const globalState = {
         {
             id: 1,
             nombre: "Pedro",
-            foto: "/img/001-ethiopia.png"
+            foto: "img/001-ethiopia.png"
         },
         {
             id: 2,
             nombre: "Juan",
-            foto: "/img/002-oman.png"
+            foto: "img/002-oman.png"
         },
         {
             id: 3,
             nombre: "Maria",
-            foto: "/img/003-tanzania.png"
+            foto: "img/003-tanzania.png"
         },
         {
             id: 4,
             nombre: "Ramon",
-            foto: "/img/004-slovenia.png"
+            foto: "img/004-slovenia.png"
         }
     ],
     titulares: [],
