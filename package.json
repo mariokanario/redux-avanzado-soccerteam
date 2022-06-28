@@ -2,7 +2,7 @@
   "name": "soccer-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mariokanario.github.io/soccerteam",
+  "homepage": "https://mariokanario.github.io/redux-avanzado-soccerteam",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
